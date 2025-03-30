@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danie\\Music\\exercicios-algoritmos\\MeuProjeto\\MeuProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\danie\\Music\\DSA\\exercicios-algoritmos\\MeuProjeto\\MeuProjeto.csproj",
       "projectName": "MeuProjeto",
-      "projectPath": "C:\\Users\\danie\\Music\\exercicios-algoritmos\\MeuProjeto\\MeuProjeto.csproj",
+      "projectPath": "C:\\Users\\danie\\Music\\DSA\\exercicios-algoritmos\\MeuProjeto\\MeuProjeto.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danie\\Music\\exercicios-algoritmos\\MeuProjeto\\obj\\",
+      "outputPath": "C:\\Users\\danie\\Music\\DSA\\exercicios-algoritmos\\MeuProjeto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config"
